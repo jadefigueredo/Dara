@@ -1,0 +1,38 @@
+
+header p{
+    font-weight: 600;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+h1{
+    font-size: 54px;
+    text-transform: uppercase;
+    color: #ffffff	;
+    padding: 15px;
+    color: #808080;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #808080;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 63px;
+    color: #ffffff	;
+    text-shadow: #303030;
+}
+
+h5{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #708090;
+    text-shadow: #303030;
+    text-align: center;
+}
